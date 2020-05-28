@@ -19,4 +19,5 @@ __Accuracy of eye detection is 90-92% (due to factor such as dark color,minimize
 
 ![](images/detected_smiles.JPG)
 
-__Thank you
+
+________________________________________________________________________________________________________________________
