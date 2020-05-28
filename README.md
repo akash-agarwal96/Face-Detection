@@ -12,7 +12,10 @@
 * Detection of eyes
 
 ![](images/detected_eyes.JPG)
+*Accuracy of eye detection is 90-92% (due to factor such as dark color,minimized eyes,spectacles)
 
 * Detection of person smiling
 
 ![](images/detected_smiles.JPG)
+
+*Thank you
