@@ -7,6 +7,12 @@
 
 * Detection of face on the image
 
+![](images/detected_face.JPG)
+
 * Detection of eyes
 
+![](images/detected_eyes.JPG)
+
 * Detection of person smiling
+
+![](images/detected_smiles.JPG)
