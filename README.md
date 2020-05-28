@@ -3,6 +3,8 @@
 
 * Normal image
 
+![](images/normal_face.JPG)
+
 * Detection of face on the image
 
 * Detection of eyes
